@@ -1,5 +1,5 @@
 {
-    "name": "capevace/wp-package-meta",
+    "name": "capevace/wp-package-parser",
     "version": "1.0.0",
     "description": "A PHP library for parsing WordPress plugin and theme metadata.",
     "type": "library",
